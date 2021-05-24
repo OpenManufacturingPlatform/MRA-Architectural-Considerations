@@ -23,7 +23,8 @@ The Manufacturing Reference Architecture Working Group introduces their view on 
 challenges and use case considerations for architecture design. In addition, the whitepaper discusses required platform capabilities and architecture design principles for a successful implementation. This paper is the initial publication future OMP work will reference an be based upon. 
 
 * [GitHub Version](./Whitepaper/01_Introduction_to_the_OMP_Manufacturing_Reference_Architecture/00_Acknowledgements_and_TOC.md)
-* [Download from Website](https://open-manufacturing.org/blog/2020/12/09/industrial-iot-white-paper/)
+* [Download from Website](https://open-manufacturing.org/wp-content/uploads/sites/101/2021/05/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf)
+* [Blog](https://open-manufacturing.org/blog/2021/05/23/manufacturing-reference-architecture/)
 
 **TODO - Adjust Whitepaper Download URL**
 
