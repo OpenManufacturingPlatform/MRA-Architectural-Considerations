@@ -26,8 +26,6 @@ challenges and use case considerations for architecture design. In addition, the
 * [Download from Website](https://open-manufacturing.org/wp-content/uploads/sites/101/2021/05/OMP_Reference_Architecture_Whitepaper-17-May-21.pdf)
 * [Blog](https://open-manufacturing.org/blog/2021/05/23/manufacturing-reference-architecture/)
 
-**TODO - Adjust Whitepaper Download URL**
-
 <br/>
 
 ### Table of Content
